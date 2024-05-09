@@ -69,3 +69,8 @@ let function_name = (argument1, argument2,) => expression
  
  console.log(lengths);
  //output = [3,4,5]
+
+ const name = ()=>{
+  return "I Love coding!!!"
+ }
+ console.log(name);
