@@ -74,3 +74,10 @@ let function_name = (argument1, argument2,) => expression
   return "I Love coding!!!"
  }
  console.log(name);
+
+ function sum (a, b) {
+  return a+b;
+ }
+ sum(1, '2');
+
+ 
