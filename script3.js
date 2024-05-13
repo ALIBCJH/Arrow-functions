@@ -80,4 +80,8 @@ let function_name = (argument1, argument2,) => expression
  }
  sum(1, '2');
 
- 
+ //The output of the above code is 12 
+ function sum (a, b); =>{
+  return a+b;
+ };
+ sum(1 + 2);
