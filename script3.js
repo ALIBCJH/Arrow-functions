@@ -85,3 +85,11 @@ let function_name = (argument1, argument2,) => expression
   return a+b;
  };
  sum(1 + 2);
+
+ export const Greet = () => {
+  return(
+    <div>
+      <h1>Welcome to coding in react</h1>
+    </div>
+  )
+ }
