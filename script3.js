@@ -93,3 +93,13 @@ let function_name = (argument1, argument2,) => expression
     </div>
   )
  }
+// Function with default parameters
+function greet(name = "Guest") {
+  console.log(`Hello, ${name}!`);
+}
+
+// Call the function without providing a parameter
+greet(); // Output: Hello, Guest!
+
+// Call the function with a parameter
+greet("John"); // Output: Hello, John!
