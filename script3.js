@@ -103,3 +103,9 @@ greet(); // Output: Hello, Guest!
 
 // Call the function with a parameter
 greet("John"); // Output: Hello, John!
+
+function achimMark(){
+  return "I am Achim mark";
+}
+achimMark();
+console.log(achimMark());
