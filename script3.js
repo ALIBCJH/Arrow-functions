@@ -109,3 +109,9 @@ function achimMark(){
 }
 achimMark();
 console.log(achimMark());
+
+function jumaSimon(name,course){
+  return `Hello ${name} you are studying ${course}`
+}
+jumaSimon(mark);
+console.log(jumaSimon());
